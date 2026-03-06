@@ -1,0 +1,6 @@
+torch
+pyannote.audio
+TTS
+faster-whisper
+ffmpeg-python
+numpy
